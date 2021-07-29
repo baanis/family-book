@@ -1,0 +1,16 @@
+img {
+  border-style: solid;
+  border-color: #000000;
+  border: 50px;
+  border-radius: 80px;
+  padding: 5px;
+  width: 450px;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+#texts {
+  display: inline-block;
+}
